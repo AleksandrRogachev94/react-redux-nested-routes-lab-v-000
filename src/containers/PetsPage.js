@@ -11,6 +11,7 @@ class PetsPage extends Component {
   }
 
   render() {
+    console.log("Hello from PetsIndex")
     return (
       <div>
         <div className='col-md-4'>
